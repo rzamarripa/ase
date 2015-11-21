@@ -1,0 +1,630 @@
+2013/06/07 09:35:26 [info] [application] User: bene (ID: bene)
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SESSION=array (
+  '8a423a704a9d41d93d2e7e61e656a4f3__id' => 'bene',
+  '8a423a704a9d41d93d2e7e61e656a4f3__name' => 'bene',
+  '8a423a704a9d41d93d2e7e61e656a4f3__states' => 
+  array (
+  ),
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbHvrqwRQpUAAB4kUUkAAAAB',
+  'SCRIPT_URL' => '/index.php',
+  'SCRIPT_URI' => 'http://donar.uss.mx/index.php',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/site/index',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_ORIGIN' => 'http://donar.uss.mx',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '30633',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/index.php',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370615726,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 09:35:26 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:35:26 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:35:26 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:35:26 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:35:26 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 09:35:26 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 09:35:26 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 09:36:13 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbHv3awRQpUAAEAUCNwAAAAg',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://donar.uss.mx/',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/index.php',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '3943',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370615773,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 09:36:13 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:36:13 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:36:13 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:36:13 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 09:36:13 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 09:36:13 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 09:36:13 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 11:25:50 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbIJjqwRQpUAAFmXN9IAAAAj',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://donar.uss.mx/',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/index.php',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '37350',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370622350,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:25:51 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:25:51 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:25:51 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:25:51 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:25:51 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 11:25:51 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 11:25:51 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 11:28:02 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbIKEqwRQpUAAECWtpYAAAAb',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://donar.uss.mx/',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/index.php',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '4253',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370622482,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:28:03 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:28:03 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:28:03 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:28:03 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:28:03 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 11:28:03 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 11:28:03 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 11:30:30 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbIKpqwRQpUAAFmXN9IAAAAj',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://donar.uss.mx/',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/index.php',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '57659',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370622630,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:30:31 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:31 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:31 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:31 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:31 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 11:30:31 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 11:30:31 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 11:30:57 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'UNIQUE_ID' => 'UbIKwawRQpUAADh6qkcAAAAQ',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://donar.uss.mx/',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/index.php',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '14835',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME' => 1370622657,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:30:57 [info] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:57 [error] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (33)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:57 [warning] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (34)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:57 [trace] [application.controllers.SiteController] Hola Mundo
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (35)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:30:57 [profile] [application.controllers.SiteController] Hola Mundo
+2013/06/07 11:30:57 [profile] [application.controllers.SiteController] begin:miProfileBucleFor
+2013/06/07 11:30:57 [profile] [application.controllers.SiteController] end:miProfileBucleFor
+2013/06/07 11:45:46 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'REDIRECT_UNIQUE_ID' => 'UbIOOqwRQpUAAF2o7DUAAAAp',
+  'REDIRECT_SCRIPT_URL' => '/site/index',
+  'REDIRECT_SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'REDIRECT_PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REDIRECT_STATUS' => '200',
+  'UNIQUE_ID' => 'UbIOOqwRQpUAAF2o7DUAAAAp',
+  'SCRIPT_URL' => '/site/index',
+  'SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/hola',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '44097',
+  'REDIRECT_URL' => '/site/index',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/site/index',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/site/index',
+  'PATH_TRANSLATED' => 'redirect:/index.php/site/index/index',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php/site/index',
+  'REQUEST_TIME' => 1370623546,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:45:47 [warning] [application.controllers.SiteController] Error en el SiteController
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:47:12 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'REDIRECT_UNIQUE_ID' => 'UbIOkKwRQpUAADTYB9IAAAAM',
+  'REDIRECT_SCRIPT_URL' => '/site/index',
+  'REDIRECT_SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'REDIRECT_PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REDIRECT_STATUS' => '200',
+  'UNIQUE_ID' => 'UbIOkKwRQpUAADTYB9IAAAAM',
+  'SCRIPT_URL' => '/site/index',
+  'SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/asdlfkjaldskfas',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '38022',
+  'REDIRECT_URL' => '/site/index',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/site/index',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/site/index',
+  'PATH_TRANSLATED' => 'redirect:/index.php/site/index/index',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php/site/index',
+  'REQUEST_TIME' => 1370623632,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:47:12 [warning] [application.controllers.SiteController] Error en el SiteController
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 11:51:52 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'REDIRECT_UNIQUE_ID' => 'UbIPqKwRQpUAADn9bAAAAAAP',
+  'REDIRECT_SCRIPT_URL' => '/site/index',
+  'REDIRECT_SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'REDIRECT_PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REDIRECT_STATUS' => '200',
+  'UNIQUE_ID' => 'UbIPqKwRQpUAADn9bAAAAAAP',
+  'SCRIPT_URL' => '/site/index',
+  'SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/asdlfkjaldskfas',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '27914',
+  'REDIRECT_URL' => '/site/index',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/site/index',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/site/index',
+  'PATH_TRANSLATED' => 'redirect:/index.php/site/index/index',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php/site/index',
+  'REQUEST_TIME' => 1370623912,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 11:51:53 [warning] [application.controllers.SiteController] Error en el SiteController
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
+2013/06/07 12:57:19 [info] [application] User: Guest (ID: )
+
+$_COOKIE=array (
+  'PHPSESSID' => 'c7puqken8j70o95khlh4aftnt0',
+  'X-Mapping-iikfnbbj' => 'D2977D63AD1FE39ACDB8172E88AB5C73',
+)
+
+$_SERVER=array (
+  'REDIRECT_UNIQUE_ID' => 'UbIe-6wRQpUAACl-2YQAAAAC',
+  'REDIRECT_SCRIPT_URL' => '/site/index',
+  'REDIRECT_SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'REDIRECT_PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REDIRECT_STATUS' => '200',
+  'UNIQUE_ID' => 'UbIe-6wRQpUAACl-2YQAAAAC',
+  'SCRIPT_URL' => '/site/index',
+  'SCRIPT_URI' => 'http://donar.uss.mx/site/index',
+  'PHP_DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1',
+  'HTTP_X_FORWARDED_FOR' => '201.165.86.38',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_ACCEPT_LANGUAGE' => 'es-es',
+  'HTTP_HOST' => 'donar.uss.mx',
+  'HTTP_REFERER' => 'http://donar.uss.mx/asdlfkjaldskfas',
+  'HTTP_X_MOSSO_DT' => 'PHP5-3 Pool',
+  'HTTP_X_CLUSTER_CLIENT_IP' => '201.165.86.38',
+  'HTTP_COOKIE' => 'PHPSESSID=c7puqken8j70o95khlh4aftnt0; X-Mapping-iikfnbbj=D2977D63AD1FE39ACDB8172E88AB5C73',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache/2.2 Server at donar.uss.mx Port 80</address>
+',
+  'SERVER_SOFTWARE' => 'Apache/2.2',
+  'SERVER_NAME' => 'donar.uss.mx',
+  'SERVER_ADDR' => '172.17.66.149',
+  'SERVER_PORT' => '80',
+  'SERVER_ADMIN' => 'root@localhost',
+  'SCRIPT_FILENAME' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php',
+  'REMOTE_PORT' => '44466',
+  'REDIRECT_URL' => '/site/index',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/site/index',
+  'SCRIPT_NAME' => '/index.php',
+  'PATH_INFO' => '/site/index',
+  'PATH_TRANSLATED' => 'redirect:/index.php/site/index/index',
+  'DOCUMENT_ROOT' => '/mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content',
+  'REMOTE_ADDR' => '201.165.86.38',
+  'PHP_SELF' => '/index.php/site/index',
+  'REQUEST_TIME' => 1370627839,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2013/06/07 12:57:20 [warning] [application.controllers.SiteController] Error en el SiteController
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/protected/controllers/SiteController.php (32)
+in /mnt/stor9-wc2-dfw1/517226/www.donar.uss.mx/web/content/index.php (13)
